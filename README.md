@@ -24,4 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NevoGadassi&layout=compact&theme=dracula&langs_count=6" alt="" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NevoGadassi&show_icons=true&locale=en&theme=dracula&langs_count=10" alt="" /></p>
+<h3 align="left">Top Repositories:</h3>
 
+<!-- Change 'NevoGadassi' to your GitHub username -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=Repo1&theme=dracula" alt="Repo1" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=Repo2&theme=dracula" alt="Repo2" /></p>
