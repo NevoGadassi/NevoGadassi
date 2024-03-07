@@ -1,6 +1,7 @@
 <h1 align="center">Hi  there👋, I'm Nevo Gadassi</h1>
 <h3 align="center">Third year student at Computer Scinece & Math at Ariel University</h3>
 
+-👨‍💻 [All of my projects are available here, on my GitHub](https://github.com/NevoGadassi)
 - 🌱 I’m currently learning *Ariel University*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NevoGadassi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
