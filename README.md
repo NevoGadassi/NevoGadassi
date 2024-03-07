@@ -1,8 +1,11 @@
-<h1 align="center">Hi  there👋, I'm Nevo Gadassi</h1>
-<h3 align="center">Third year student at Computer Scinece & Math at Ariel University</h3>
+<h1 align="center">Hi there👋, I'm Nevo Gadassi</h1>
+<h3 align="center">  Computer Science & Math Student at Ariel University</h3>
 
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/NevoGadassi)
-- 🌱 Currently advancing my skills at *Ariel University*
+<p align="center">Welcome to my GitHub profile! I'm Nevo Gadassi, a third-year student pursuing a degree in Computer Science & Math at Ariel University. As a dedicated and passionate software engineer, I love turning ideas into reality through coding and problem-solving.</p>
+
+<p align="center">👨‍💻 Explore my diverse range of projects on [GitHub](https://github.com/NevoGadassi) to see my coding journey and the solutions I've crafted.</p>
+
+<p align="center">🌱 Currently, I'm immersed in learning and expanding my skills at Ariel University. I believe in the continuous pursuit of knowledge to stay at the forefront of technology trends.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NevoGadassi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
@@ -30,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=HomeEconomy&theme=dracula" alt="HomeEconomy" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=ML-URL-Detection&theme=dracula" alt="ML-URL-Detection" /></p>
 <!-- Add more repos as needed -->
+<p align="center">Feel free to explore my repositories, contribute, and reach out if you have any questions or collaboration ideas. Let's connect and build something good together!</p>
+
