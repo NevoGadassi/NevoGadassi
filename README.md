@@ -1,5 +1,5 @@
 <h1 align="center">Hi  there👋, I'm Nevo Gadassi</h1>
-<h3 align="center">second year student at Computer Scinece & Math at Ariel University</h3>
+<h3 align="center">Third year student at Computer Scinece & Math at Ariel University</h3>
 
 - 🌱 I’m currently learning *Ariel University*
 
