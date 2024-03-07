@@ -33,5 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=HomeEconomy&theme=dracula" alt="HomeEconomy" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=ML-URL-Detection&theme=dracula" alt="ML-URL-Detection" /></p>
 <!-- Add more repos as needed -->
-<p style="text-decoration: underline;">Feel free to explore my repositories, contribute, and reach out if you have any questions or collaboration ideas. Let's connect and build something good together!</p>
+<h5 style="text-decoration: underline;">Feel free to explore my repositories, contribute, and reach out if you have any questions or collaboration ideas. Let's connect and build something good together!</h5>
 
