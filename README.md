@@ -27,5 +27,6 @@
 <h3 align="left">Top Repositories:</h3>
 
 <!-- Change 'NevoGadassi' to your GitHub username -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=Repo1&theme=dracula" alt="Repo1" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=Repo2&theme=dracula" alt="Repo2" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=HomeEconomy&theme=dracula" alt="HomeEconomy" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=NevoGadassi&repo=ML-URL-Detection&theme=dracula" alt="ML-URL-Detection" /></p>
+<!-- Add more repos as needed -->
